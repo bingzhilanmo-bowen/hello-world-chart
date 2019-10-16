@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "7.0"
+description: Hello World For Test
+name: hello-world
+version: 7.0.0
+icon: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571744436&di=eb3bae436543bea34529eecc3269bb57&imgtype=jpg&er=1&src=http%3A%2F%2Fhellorfimg.zcool.cn%2Fpreview%2F434574385.jpg
